@@ -1,0 +1,4 @@
+name: PearlCooldown
+main: io.kohi.pearlcooldown.PearlCooldown
+version: 1.0
+depend: [Yamler]
